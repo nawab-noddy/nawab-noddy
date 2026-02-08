@@ -65,16 +65,4 @@ AI-powered job portal connecting job seekers with recruiters.
 
 ---
 
-### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nawab-noddy&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nawab-noddy&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="languages graph" />
-</div>
-
----
-
-<div align="center">
-  <p>Visitor count<br>
-  <img src="https://profile-counter.glitch.me/nawab-noddy/count.svg" /></p>
-</div>
