@@ -24,7 +24,7 @@ I am a final-year **Information Technology** student at **Babu Banarsi Das North
 
 Unlike typical full-stack developers, I focus on **System Design**, **Data Consistency**, and **Clean Architecture**. I am currently seeking entry-level roles in Backend Engineering.
 
-- 🔭 **Currently working on:** [Productivity Drift Detection](https://github.com/nawab-noddy/productivity-analytics-burnout-detection-platform) – An AI-assisted backend system that detects early signs of burnout.
+- 🔭 **Currently working on:** [PayGuard - An enterprise-grade, idempotent payment processing backend](https://github.com/nawab-noddy/PayGuard) – An AI-assisted backend system that detects early signs of burnout.
 - 🌱 **Learning:** Advanced Microservices Patterns & System Design.
 - 💼 **Experience:** Ex-Software Engineering Intern @ **Sahind Technologies**.
 
