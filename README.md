@@ -58,7 +58,7 @@ An AI-assisted backend system that detects early signs of burnout.
 #### 🛡️ [PayGuard](https://github.com/nawab-noddy/PayGuard)
 PayGuard is a robust, backend-only payment and recharge processing system designed to simulate the transactional guarantees of real-world fintech applications.
 - **Tech Stack:** Java SpringBoot, Redis, Idempotent API.
-- **💡 Architectural Highlight: Request Validation, Redis Idempotency Check (O(1) Time), Optimistic Locking (@Version).
+- **💡 Architectural Highlight:** Request Validation, Redis Idempotency Check (O(1) Time), Optimistic Locking (@Version).
 
 #### 🚀 [CareerSarthi - AI Job Portal](https://github.com/nawab-noddy/careersarthi-ai-jobportal)
 AI-powered job portal connecting job seekers with recruiters.
