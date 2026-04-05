@@ -24,7 +24,9 @@ I am a final-year **Information Technology** student at **Babu Banarsi Das North
 
 Unlike typical full-stack developers, I focus on **System Design**, **Data Consistency**, and **Clean Architecture**. I am currently seeking entry-level roles in Backend Engineering.
 
-- 🔭 **Currently working on:** [PayGuard - An enterprise-grade, idempotent payment processing backend](https://github.com/nawab-noddy/PayGuard) – An AI-assisted backend system that detects early signs of burnout.
+- 🔭 **Currently working on:** [​FlashMart – High-Throughput Flash Sale Inventory Engine](https://github.com/nawab-noddy/FlashMart) – An Enterprise-Grade  High-Throughput Inventory Engine.
+
+
 - 🌱 **Learning:** Advanced Microservices Patterns & System Design.
 - 💼 **Experience:** Ex-Software Engineering Intern @ **Sahind Technologies**.
 
@@ -48,15 +50,15 @@ A comprehensive Fintech operations management system.
 - **Tech Stack:** Spring Boot, Microservices, MySQL, React Native.
 - **💡 Architectural Highlight:** Designed a **Modular Monolith to Microservices** architecture, allowing independent scaling of KYC, Wallet, and Loan modules without tight coupling.
 
-#### 🧠 [Productivity Drift Detection](https://github.com/nawab-noddy/productivity-analytics-burnout-detection-platform)
+#### 🧠 [Flow-State-AI](https://github.com/nawab-noddy/productivity-analytics-burnout-detection-platform)
 An AI-assisted backend system that detects early signs of burnout.
 - **Tech Stack:** Java, Spring Boot, Python (ML), Time-Series Data.
 - **💡 Architectural Highlight:** Implemented a **Hybrid Decision Engine** that prioritizes deterministic Business Rules over AI probability to ensure **100% reliable** burnout alerts.
 
-#### 🤖 [LeetCode Mentor](https://github.com/nawab-noddy/leetcode-mentor)
-A Chrome Extension serving as a distraction-free AI pair programmer.
-- **Tech Stack:** Java Backend, Gemini API, Chrome Extension API.
-- **💡 Architectural Highlight:** Engineered a **Context-Aware Injection System** that reads the DOM to provide hints directly inside the UI, reducing context-switching latency.
+#### 🛡️ [PayGuard](https://github.com/nawab-noddy/PayGuard)
+PayGuard is a robust, backend-only payment and recharge processing system designed to simulate the transactional guarantees of real-world fintech applications.
+- **Tech Stack:** Java SpringBoot, Redis, Idempotent API.
+- **💡 Architectural Highlight: Request Validation, Redis Idempotency Check (O(1) Time), Optimistic Locking (@Version).
 
 #### 🚀 [CareerSarthi - AI Job Portal](https://github.com/nawab-noddy/careersarthi-ai-jobportal)
 AI-powered job portal connecting job seekers with recruiters.
